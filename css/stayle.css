@@ -494,6 +494,7 @@ a {
     border: none;
     margin-right: 125px;
     transition: .4s;
+
 }
 .win-3 button:hover {
     background: linear-gradient(98.94deg, rgba(200, 34, 228, 0.4) 2.52%, rgba(87, 25, 244, 0.4) 92.81%);
